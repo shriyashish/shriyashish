@@ -10,5 +10,6 @@ I'm always eager to learn new technologies and domains and not restrict myself f
 I would love to collaborate on projects and discuss recent trends and so on!
 
 You can contact me on: shriyashish.mishra01@gmail.com
+Linkedin: https://www.linkedin.com/in/shriyashish-mishra-200157191
 
 </div>

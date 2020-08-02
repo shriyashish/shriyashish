@@ -1,3 +1,8 @@
+<div align="center">
+  
+![339e8ede-b350-43ca-aa36-e0b05955c27e](https://user-images.githubusercontent.com/62511046/89133814-dbc38780-d53c-11ea-85f2-55846db78c1a.gif)
+
+</div>
 Firstly, thank you for visiting my Github Profile. 
 <div align="center">
 <img src= "https://user-images.githubusercontent.com/62511046/89132367-3eaf2180-d531-11ea-95f4-13c0f9111919.gif" width="150" align="center"><img src="https://user-images.githubusercontent.com/62511046/89132369-44a50280-d531-11ea-97f7-0578b74d42d0.gif" width="150" align="center">
